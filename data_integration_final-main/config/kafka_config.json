@@ -1,0 +1,5 @@
+{
+    "bootstrap_servers": "localhost:9092",
+    "topic": "food_inspection_violations"
+}
+  
